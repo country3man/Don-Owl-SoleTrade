@@ -40,7 +40,7 @@ const CATEGORIES = [
   { 
     title: "Booking Tickets", 
     description: "Domestic flights within Papua New Guinea at affordable rates.",
-    image: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?q=80&w=1000&auto=format&fit=crop"
+    image: "Img/file_00000000641471fabefc00fe48fe75de.png"
   },
   { 
     title: "Printing Shop", 
